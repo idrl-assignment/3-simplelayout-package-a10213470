@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to simplelayout-a10213470's documentation!
+Welcome to miraqiaox's documentation!
 ==================================================
 
 .. toctree::
@@ -18,3 +18,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+================
+item
