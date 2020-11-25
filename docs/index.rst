@@ -11,7 +11,6 @@ Welcome to simplelayout-a10213470's documentation!
    :caption: Contents:
 
 
-
 Indices and tables
 ==================
 
